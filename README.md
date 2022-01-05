@@ -1,6 +1,7 @@
 # Collective detection based on visual information in animal groups
 
-This project was based on the paper of Jacob D. Davidson et al., where the team investigated how is individual and collective visual detection dependant on various parameters ie. the number of individuals in a group, the state of the group, the position of the individual within the group etc. The goal of this project is to replicate the result that the team achieved using synthetic data ie. create a collective behaviour model which simulates the movements of golden shiner fish and collect the same metrics that the team has done.
+This project was based on the paper of Jacob D. Davidson et al., where the team investigated how is individual and collective visual detection dependant on various parameters ie. the number of individuals in a group, the state of the group, the position of the individual within the group etc. The goal of this project is to replicate the results that the team achieved using synthetic data, and implement a simple predator avoidance algorithm to observe how individual and collective visual information change with respect to
+the predator movement.
 We were able to achieve...
 
 
