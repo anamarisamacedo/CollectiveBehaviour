@@ -5,9 +5,9 @@ We were able to achieve...
 
 
 ## References 
-Main paper: Davidson JD et al. (2021) Collective detection based on visual information in animal groups. Journal of The Royal Society Interface 18(180):202101
-Source code: https://github.com/jacobdavidson/collectivedetection
-Source data: https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.sbcc2fr2h
+* Main paper: Davidson JD et al. (2021) Collective detection based on visual information in animal groups. Journal of The Royal Society Interface 18(180):202101
+* Source code: https://github.com/jacobdavidson/collectivedetection
+* Source data: https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.sbcc2fr2h
 
 ## Run the simulation
 
