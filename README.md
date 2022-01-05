@@ -12,3 +12,8 @@ We were able to achieve...
 
 ## Run the simulation
 
+
+
+## Individual Contributions
+
+Ana Macedo wrote the abstract, part of the Introduction, part of the Methods, polished the report and the bibliography. Žan Jonke wrote part of the Introduction and part of the Methods.
