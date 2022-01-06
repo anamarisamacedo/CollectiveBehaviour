@@ -1,7 +1,7 @@
 # Collective detection based on visual information in animal groups
 
 This project was based on the paper of Jacob D. Davidson et al., where the team investigated how is individual and collective visual detection dependant on various parameters ie. the number of individuals in a group, the state of the group, the position of the individual within the group etc. The goal of this project was to study and replicate the results that the team achieved using synthetic data and collect the same metrics, but also to implement a simple predator avoidance algorithm to observe how individual and collective visual information change with respect to the predator movement.
-Unfortunatly we weren't able to implement the predator algorithm.
+We weren't able to get results of the predator algorithm.
 
 
 ## References 
@@ -19,6 +19,5 @@ Software used: VS Code, Anaconda3, Python 3.9.7
 
 ## Individual Contributions
 
-* Ana Macedo: wrote the abstract, part of the Introduction, part of the Methods, polished the report and the bibliography. 
-* Vulnet Alija: wrote the Problem Definition, Model, and Discussion with their appropriate references; uploaded the source code and the link to the necessary data to run the program.
-* Žan Jonke: wrote part of the Introduction and part of the Methods.
+Ana Macedo wrote the Abstract; part of the Introduction, Methods and Model; polished the report and the bibliography. Patricia Alcázar wrote the Results with their corresponding images and references. Vulnet Alija wrote the Problem Definition, Model, and Discussion with their appropriate references; uploaded the source code and the link to the necessary data to run the program. Žan Jonke wrote part of the Introduction and part of the Methods.
+All authors studied the main and predator papers, and analysed the models.
