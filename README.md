@@ -13,9 +13,9 @@ We could obtain the same results as the original paper, and analyse them on our 
 
 Since this project needs a lot of memory to run, we need to run it on Google Colab using a GPU.
 
-1. Upload all the code to your Drive Disc
-2. Open '4 - Data figures.ipynb' and '5 - Model.ipynb' on Google Colab
-3. Run those files to produce the results
+1. Open '4 - Data figures.ipynb' and '5 - Model.ipynb' on Google Colab
+2. Add this folder to your Drive Disc: https://drive.google.com/drive/folders/1eYVarrWVUjaGSBkS8zIMZBZ1iaMGyrnO?usp=sharing
+3. Run the files '4 - Data figures.ipynb' and '5 - Model.ipynb' to produce the results
 
 Or if your pc has a GPU, run this:
 1. Open Source code 'CollectiveBehaviour-main'
