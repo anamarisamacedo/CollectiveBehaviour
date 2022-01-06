@@ -1,7 +1,7 @@
 # Collective detection based on visual information in animal groups
 
 This project was based on the paper of Jacob D. Davidson et al., where the team investigated how is individual and collective visual detection dependant on various parameters ie. the number of individuals in a group, the state of the group, the position of the individual within the group etc. The goal of this project was to study and replicate the results that the team achieved using synthetic data and collect the same metrics, but also to implement a simple predator avoidance algorithm to observe how individual and collective visual information change with respect to the predator movement.
-We weren't able to get results of the predator algorithm.
+We could obtain the same results as the original paper, and analyse them on our report, but we weren't able to get results of the predator algorithm.
 
 
 ## References 
