@@ -22,6 +22,7 @@ Or if your pc has a GPU, run this:
 2. Download the file 'saved_data_and_results.zip' from the Source data link
 3. Unzip the 'saved_data_and_results.zip' and put the 'savedresults-final' folder on the same folder that the 'CollectiveBehaviour-main' is located. Otherwise the directory should be changed inside the code
 4. Only the files '4 - Data figures.ipynb' and '5 - Model.ipynb' are used to produce the results
+5. Don't run the 'Mount Drive' cells.
 
 Software used: VS Code, Anaconda3, Python 3.9.7
 
