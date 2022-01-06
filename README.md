@@ -10,7 +10,15 @@ We weren't able to get results of the predator algorithm.
 * Source data: https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.sbcc2fr2h
 
 ## Run the simulation
-1. Download the Source code 'CollectiveBehaviour-main'
+
+Since this project needs a lot of memory to run, we need to run it on Google Colab using a GPU.
+
+1. Open '4 - Data figures.ipynb' and '5 - Model.ipynb' on Google Colab
+2. Add this folder to your Drive Disc: https://drive.google.com/drive/folders/1eYVarrWVUjaGSBkS8zIMZBZ1iaMGyrnO?usp=sharing
+3. Run the files '4 - Data figures.ipynb' and '5 - Model.ipynb' to produce the results
+
+Or if your pc has a GPU, run this:
+1. Open Source code 'CollectiveBehaviour-main'
 2. Download the file 'saved_data_and_results.zip' from the Source data link
 3. Unzip the 'saved_data_and_results.zip' and put the 'savedresults-final' folder on the same folder that the 'CollectiveBehaviour-main' is located. Otherwise the directory should be changed inside the code
 4. Only the files '4 - Data figures.ipynb' and '5 - Model.ipynb' are used to produce the results
